@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4892'
     url: http://www.gutenberg.org/2009/agents/4892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13478#Z-zette---moeurs-foraines
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-09-16'
 gutenberg_type: Text
